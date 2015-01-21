@@ -69,7 +69,7 @@ class Httpclient {
 
     /**
      * $postDataArray
-     * @access array
+     * @access protected
      * @var type 
      */
     protected $postDataArray;
