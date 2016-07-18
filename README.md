@@ -1,5 +1,5 @@
 # Currency-Converter
-===========
+-----------------------------
 
 Run your own Currency Converter
 
