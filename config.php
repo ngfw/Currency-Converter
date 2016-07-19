@@ -21,7 +21,7 @@ return array(
 	 * Please choose one 
 	 * Google , Yahoo, Opensourceexchangerates
 	 */
-	"FinanceService" => "Google",
+	"FinanceService" => "Yahoo",
 
 	/**
 	 * This is not Required Unless you use Opensourceexchangerates Service
